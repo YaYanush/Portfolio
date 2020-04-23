@@ -1,0 +1,22 @@
+.slogan{
+    height: 250px;
+    background-color: #dbeb69;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    width: 80%;
+    height: 60%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+.text{
+
+}
+
+.findMe{
+    background-color: gray;
+}

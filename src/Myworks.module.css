@@ -1,0 +1,27 @@
+.myworks{
+    height: 100vh;
+    background-color: #ce9beb;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+}
+.container{
+    width: 80%;
+    height: 80%;
+    display: flex ;
+    flex-direction: column;
+    border: 1px solid black;
+}
+.works{
+    height: 25%;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+}
+.projects{
+    height: 75%;
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+}

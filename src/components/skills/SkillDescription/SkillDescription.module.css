@@ -1,0 +1,34 @@
+.skills {
+    width: 25%;
+    background-color: white;
+}
+
+.react {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    height: 50%;
+}
+
+.description {
+    height: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+}
+
+.photo {
+    height: 100px;
+    width: 100px;
+    background-color: #dbeb69;
+
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}

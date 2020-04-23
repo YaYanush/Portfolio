@@ -1,0 +1,22 @@
+.header{
+    height: 70px;
+    background-color:skyblue;
+    display: flex;
+    justify-content: center;
+}
+.container{
+    display: flex;
+    width: 80%;
+    align-items: center;
+    justify-content: flex-end;
+
+}
+
+.nav{
+    display: flex;
+    width: 350px;
+    justify-content: space-between;
+}
+.link{
+    text-decoration: none;
+}
