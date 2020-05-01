@@ -20,3 +20,17 @@
 .link{
     text-decoration: none;
 }
+
+@media screen and (max-width: 600px){
+    .header{
+        height: 50px;
+        background-color:skyblue;
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .container{
+        display: flex;
+        width: 100%;
+    }
+}
